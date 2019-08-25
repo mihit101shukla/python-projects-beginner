@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8af326f7-d161-4b9c-92fe-a803e885c233" name="Default Changelist" comment="" />
+    <list default="true" id="8af326f7-d161-4b9c-92fe-a803e885c233" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AccumilatingList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anagrams Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcateVariableNumberOfInputLists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CowsAndBulls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Email Shortcut.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EuclideanAlgorithm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneratingWordsFromStrings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HowManyQuadraticSolutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intersecting Intervals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberOfListsInAList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddUpEvenDown.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuadraticSolutions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReturnUnique.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringRotations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reading from a file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +32,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1OiUIgUryXS2F0h7ymaYJgijOA0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -139,5 +161,16 @@
       <updated>1564459832466</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
